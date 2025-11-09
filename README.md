@@ -17,7 +17,8 @@ I'm a passionate Software engineering who loves building  web apps, mobile apps,
 
 ## 🚀 What i work on
 - **AI Agents:** single-agent, multi-agent, MCP-based, browser agents, voice agents, local agents  
-- **Mobile Apps & SDKs:** React Native apps, SDK integrations for LLMs and AI agents  
+- **Mobile Apps & SDKs:** React Native apps, SDK integrations for LLMs and AI agents
+- **Fintech & Payments:** AI-driven payment flows, TradFi integrations, on/off-ramps, stablecoin wallets, and compliance-ready SDKs  
 - **Ready-to-run Examples:** clone → install → run  
 - **Developer Workflows:** structuring agents, handling tools, logs, evaluation, planning  
 - **RAG Setups:** simple chains → agentic RAG → hybrid search → local RAG  
