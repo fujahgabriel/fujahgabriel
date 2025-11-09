@@ -10,12 +10,15 @@ I'm a passionate Software engineering who loves building  web apps, mobile apps,
 - **Frameworks:** React, Node.js, Express, Laravel, Django, Flask, Nest, Tauri  
 - **Databases:** MySQL, PostgreSQL, MongoDB  
 - **LLMs & AI Tools:** OpenAI, Claude, Gemini, Grok, LLaMA, Mistral, Ollama, LangChain, LlamaIndex  
+- **CRM & Business Tools:** Microsoft Dynamics, HubSpot, Zoho, Salesforce, Access  
+- **eCommerce & Integrations:** Shopify, WooCommerce, Stripe, PayPal, custom checkout SDKs  
+- **Fintech & Payments:** on/off-ramps, stablecoins, TradFi APIs, AI-assisted payment flows  
 - **DevOps & Tools:** Git, Docker, GitHub Actions, AWS, Vercel, Supabase, GCP, Render, 
-- **Specialties:** AI agents, RAG, tool calling, memory systems, SDKs, production-grade AI apps  
+- **Specialities:** AI agents, RAG, tool calling, memory systems, SDKs, production-grade AI and fintech apps
 
 ---
 
-## 🚀 What i work on
+## 🚀 What I work on
 - **AI Agents:** single-agent, multi-agent, MCP-based, browser agents, voice agents, local agents  
 - **Mobile Apps & SDKs:** React Native apps, SDK integrations for LLMs and AI agents
 - **Fintech & Payments:** AI-driven payment flows, TradFi integrations, on/off-ramps, stablecoin wallets, and compliance-ready SDKs  
