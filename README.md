@@ -12,7 +12,7 @@ I'm a passionate Software engineering who loves building  web apps, mobile apps,
 
 - **Languages:** Python, Go, JavaScript, TypeScript, Php, Java, C++, Rust 
 - **Frameworks:** React, Node.js, Express, Laravel, Django, Flask, Nest, Tauri  
-- **Databases:** MySQL, PostgreSQL, MongoDB, GraphQL
+- **Databases:** MySQL, PostgreSQL, MongoDB, GraphQL, Redis, Qdrant
 - **LLMs & AI Tools:** OpenAI, Claude, Gemini, Grok, LLaMA, Mistral, Ollama, LangChain, LlamaIndex  
 - **CRM & Business Tools:** Microsoft Dynamics, HubSpot, Zoho, Salesforce, Access  
 - **eCommerce & Integrations:** Shopify, WooCommerce, Stripe, PayPal, custom checkout SDKs  
